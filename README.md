@@ -1,4 +1,4 @@
-tree-sitter-html
+tree-sitter-isml
 ================
 
 [![Build Status](https://travis-ci.org/tree-sitter/tree-sitter-html.svg?branch=master)](https://travis-ci.org/tree-sitter/tree-sitter-html)
